@@ -9,6 +9,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+	"version": "1.0.0",
+	"keywords": [],
+	"author": "Alfonso Lopez",
+	"description": "A project that does something awesome",
+	"license": "ISC"
 }
